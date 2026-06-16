@@ -37,16 +37,17 @@
       "description": "Prise en main à distance",
       "fichier": "RustDesk.exe",
       "url": "github_latest:rustdesk/rustdesk:rustdesk-*-x86_64.exe"
-    },
-    {
-      "nom": "Zen Timings",
-      "description": "Lecture timings RAM pour CPU AMD",
-      "fichier": "ZenTimings.7z",
-      "url": "https://drive.google.com/file/d/1tNVFEbm8_VJLRwEWBdJVDSDmRAQUzz0Y/view"
     }
   ],
   "specifique": {
-    "amd": [],
+    "amd": [
+      {
+        "nom": "Zen Timings",
+        "description": "Lecture timings RAM pour CPU AMD",
+        "fichier": "ZenTimings.7z",
+        "url": "https://drive.google.com/file/d/1tNVFEbm8_VJLRwEWBdJVDSDmRAQUzz0Y/view"
+      }
+    ],
     "intel_old": [],
     "intel_new": [
       {
