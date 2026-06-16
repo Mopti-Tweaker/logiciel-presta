@@ -48,20 +48,7 @@
         "url": "https://drive.google.com/file/d/1tNVFEbm8_VJLRwEWBdJVDSDmRAQUzz0Y/view"
       }
     ],
-    "intel_old": [
-      {
-        "nom": "ASRock Utility Intel 8e/9e gen",
-        "description": "Utilitaire carte mère ASRock ancienne gen",
-        "fichier": "ASRock_Utility_OLD.exe",
-        "url": "https://drive.google.com/file/d/1-nNUFE8M_hJ1UgjhYLwQEgpCy-V6jQ7g/view"
-      },
-      {
-        "nom": "Patch registre Intel old",
-        "description": "Clé de registre Windows pour Intel 8e/9e",
-        "fichier": "patch_intel_old.bat",
-        "url": "https://drive.google.com/file/d/1HD-ellH2KEUepqeclg7p0LLvSiyUj54g/view"
-      }
-    ],
+    "intel_old": [],
     "intel_new": [
       {
         "nom": "AsrTC Intel 12e gen+",
