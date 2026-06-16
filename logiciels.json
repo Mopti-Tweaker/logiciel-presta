@@ -2,39 +2,39 @@
   "universel": [
     {
       "nom": "TM5",
-      "description": "Test mémoire (profil perso)",
-      "source": "github",
-      "fichier": "logiciels/universel/TM5 Client V2.7z"
+      "description": "Test mémoire (profil inclus)",
+      "fichier": "TM5_Client_V2.exe",
+      "url": "https://drive.google.com/file/d/1QJsYjYvMJxu1NxEG4ax4AWKfKDM3R0mi/view"
     },
     {
       "nom": "MemTweakIT",
       "description": "Optimisation timings RAM",
-      "source": "github",
-      "fichier": "logiciels/universel/Mem TweakIt-V2.03.23.7z"
+      "fichier": "MemTweakIT.exe",
+      "url": "https://drive.google.com/file/d/1Byrkn75NM-u5NgKVIglHsmmnidX49rBF/view"
     },
     {
       "nom": "HWiNFO",
       "description": "Informations matériel complètes",
-      "source": "web",
-      "url": "https://www.hwinfo.com/files/hwi_848.exe"
+      "fichier": "HWiNFO64.exe",
+      "url": "https://drive.google.com/file/d/1PruhsLNcZHPJXNtIdy2VOq6OunycHtOx/view"
+    },
+    {
+      "nom": "GPU-Z",
+      "description": "Infos carte graphique",
+      "fichier": "GPU-Z.exe",
+      "url": "https://drive.google.com/file/d/1hjCMrAx2cFuZPqJR7jNDiAlJsF16WZI2/view"
     },
     {
       "nom": "OCCT",
       "description": "Test stabilité CPU/GPU/RAM",
-      "source": "web",
+      "fichier": "OCCT_setup.exe",
       "url": "https://www.ocbase.com/download/OCCT_setup.exe"
     },
     {
       "nom": "RustDesk",
       "description": "Prise en main à distance",
-      "source": "web",
-      "url": "https://github.com/rustdesk/rustdesk/releases/latest/download/rustdesk-1.3.8-x86_64.exe"
-    },
-    {
-      "nom": "GPU-Z",
-      "description": "Infos carte graphique",
-      "source": "web",
-      "url": "https://download.techpowerup.com/GPU-Z.2.69.0.exe"
+      "fichier": "RustDesk.exe",
+      "url": "github_latest:rustdesk/rustdesk:rustdesk-*-x86_64.exe"
     }
   ],
   "specifique": {
@@ -42,44 +42,44 @@
       {
         "nom": "Zen Timings",
         "description": "Lecture timings RAM pour CPU AMD",
-        "source": "web",
-        "url": "https://github.com/irusanov/ZenTimings/releases/latest/download/ZenTimings_v1.39.zip"
+        "fichier": "ZenTimings.zip",
+        "url": "https://drive.google.com/file/d/1tNVFEbm8_VJLRwEWBdJVDSDmRAQUzz0Y/view"
       }
     ],
     "intel_old": [
       {
         "nom": "ASRock Utility Intel 8e/9e gen",
         "description": "Utilitaire carte mère ASRock ancienne gen",
-        "source": "gdrive",
-        "url": "https://drive.google.com/uc?export=download&id=1-nNUFE8M_hJ1UgjhYLwQEgpCy-V6jQ7g"
+        "fichier": "ASRock_Utility_OLD.exe",
+        "url": "https://drive.google.com/file/d/1-nNUFE8M_hJ1UgjhYLwQEgpCy-V6jQ7g/view"
       },
       {
         "nom": "Patch registre Intel old",
         "description": "Clé de registre Windows pour Intel 8e/9e",
-        "source": "gdrive",
-        "url": "https://drive.google.com/uc?export=download&id=1vw_fXaJw03rPCjzAz3I7-1HLB_I0flUG"
+        "fichier": "patch_intel_old.bat",
+        "url": "https://drive.google.com/file/d/1HD-ellH2KEUepqeclg7p0LLvSiyUj54g/view"
       }
     ],
     "intel_new": [
       {
-        "nom": "AsrTC Intel 12e gen",
+        "nom": "AsrTC Intel 12e gen+",
         "description": "Utilitaire carte mère ASRock nouvelle gen",
-        "source": "gdrive",
-        "url": "https://drive.google.com/uc?export=download&id=1zwhZf6Ua1aRc2u-5R_FP9H7ABRc_udpm"
+        "fichier": "AsrTC_12gen.exe",
+        "url": "https://drive.google.com/file/d/1zwhZf6Ua1aRc2u-5R_FP9H7ABRc_udpm/view"
       },
       {
         "nom": "Patch registre Intel new",
         "description": "Clé de registre Windows pour Intel 12e+",
-        "source": "gdrive",
-        "url": "https://drive.google.com/uc?export=download&id=1JUXT2PTLQk1LQCbsC1xr3C8RuTtSMPkl"
+        "fichier": "patch_intel_new.bat",
+        "url": "https://drive.google.com/file/d/1HD-ellH2KEUepqeclg7p0LLvSiyUj54g/view"
       }
     ],
     "ddr4": [
       {
         "nom": "Thaiphoon Burner",
         "description": "Lecture SPD des barrettes DDR4",
-        "source": "github",
-        "fichier": "logiciels/universel/Thaiphoon Burner.7z"
+        "fichier": "Thaiphoon_Burner.exe",
+        "url": "https://drive.google.com/file/d/1h4keHy65BzJhKptTCqp_8mkl_soNPVX3/view"
       }
     ],
     "ddr5": []
