@@ -3,7 +3,8 @@
     {
       "nom": "TM5",
       "description": "Test mémoire (profil inclus)",
-      "fichier": "TM5_Client_V2.exe",
+      "fichier": "TM5_Client_V2.7z",
+      "launcher": "Lancer le test ici sur ce BAT.bat",
       "url": "https://drive.google.com/file/d/1QJsYjYvMJxu1NxEG4ax4AWKfKDM3R0mi/view"
     },
     {
