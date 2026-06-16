@@ -10,7 +10,7 @@
     {
       "nom": "MemTweakIT",
       "description": "Optimisation timings RAM",
-      "fichier": "MemTweakIT.exe",
+      "fichier": "MemTweakIT.7z",
       "url": "https://drive.google.com/file/d/1Byrkn75NM-u5NgKVIglHsmmnidX49rBF/view"
     },
     {
@@ -43,7 +43,7 @@
       {
         "nom": "Zen Timings",
         "description": "Lecture timings RAM pour CPU AMD",
-        "fichier": "ZenTimings.zip",
+        "fichier": "ZenTimings.7z",
         "url": "https://drive.google.com/file/d/1tNVFEbm8_VJLRwEWBdJVDSDmRAQUzz0Y/view"
       }
     ],
@@ -79,7 +79,7 @@
       {
         "nom": "Thaiphoon Burner",
         "description": "Lecture SPD des barrettes DDR4",
-        "fichier": "Thaiphoon_Burner.exe",
+        "fichier": "Thaiphoon_Burner.7z",
         "url": "https://drive.google.com/file/d/1h4keHy65BzJhKptTCqp_8mkl_soNPVX3/view"
       }
     ],
