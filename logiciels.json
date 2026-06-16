@@ -54,6 +54,7 @@
         "nom": "AsrTC Intel 12e gen+",
         "description": "Utilitaire carte mère ASRock nouvelle gen",
         "fichier": "AsrTC_12gen.exe",
+        "chemin_installe": "C:\\Program Files\\ASRock Utility\\Timing Configurator\\AsrTC.exe",
         "url": "https://drive.google.com/file/d/1zwhZf6Ua1aRc2u-5R_FP9H7ABRc_udpm/view"
       },
       {
